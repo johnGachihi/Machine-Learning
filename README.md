@@ -1,7 +1,7 @@
 # linear-regression-with-generalization
 
 ### Group Members:
-- Hellen Kokach :notes: :musical_keyboard: :notes:
+- Hellen "Queen of Height" Kokach :notes: :musical_keyboard: :notes:
 - John Waithaka :neckbeard: :sheep: :neckbeard:
-- Miriam Mmboga :dancer: :stuck_out_tongue_closed_eyes: :dancer:
-- Moses Karanjez :sunglasses: :metal: :sunglasses:
+- Mizzy "The Great" Mmboga :dancer: :stuck_out_tongue_closed_eyes: :dancer:
+- Moses "The Philosopher" Karanjez :sunglasses: :metal: :sunglasses:
